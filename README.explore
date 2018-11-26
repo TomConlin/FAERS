@@ -1,0 +1,143 @@
+
+SWAG use case: phenotype to substance (p2s)
+
+A paitent exibits symtoms(phenotype) which
+bear similarity to an FDA adverse reaction
+which is (loosly) associated with something they ate.
+
+May be only a sliver of the population has a unknown variant
+which triggers condition.
+
+Nothing can be said about penetrance
+unless the numbers are consistantly overwhelming.
+
+
+
+
+
+##############################################################
+Looking for a way to find nutraceutical in fda drugs
+
+https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:50733
+
+
+ α-linolenic acid (CHEBI:27432) has role nutraceutical (CHEBI:50733)
+(+)-α-tocopherol (CHEBI:18145) has role nutraceutical (CHEBI:50733)
+(R)-carnitine (CHEBI:16347) has role nutraceutical (CHEBI:50733)
+(R)-lipoic acid (CHEBI:30314) has role nutraceutical (CHEBI:50733)
+({[(2R,3S,4R,5R)-3,4-dihydroxy-5-(9H-purin-9-yl)oxolan-2-yl]methyl phosphonato}oxy)(phosphonatooxy)phosphinate (CHEBI:237958) has role nutraceutical (CHEBI:50733)
+1α,25-dihydroxyvitamin D2 (CHEBI:86320) has role nutraceutical (CHEBI:50733)
+25-hydroxyvitamin D2 (CHEBI:86319) has role nutraceutical (CHEBI:50733)
+5,6,7,8-tetrahydrobiopterin (CHEBI:15372) has role nutraceutical (CHEBI:50733)
+all-cis-5,8,11,14,17-icosapentaenoic acid (CHEBI:28364) has role nutraceutical (CHEBI:50733)
+all-cis-docosa-4,7,10,13,16,19-hexaenoic acid (CHEBI:28125) has role nutraceutical (CHEBI:50733)
+all-cis-icosa-8,11,14-trienoic acid (CHEBI:53486) has role nutraceutical (CHEBI:50733)
+N-acetyl-L-aspartic acid (CHEBI:21547) has role nutraceutical (CHEBI:50733)
+N-acetyl-L-methionine (CHEBI:21557) has role nutraceutical (CHEBI:50733)
+S-adenosyl-L-methionine (CHEBI:15414) has role nutraceutical (CHEBI:50733)
+L-arginine (CHEBI:16467) has role nutraceutical (CHEBI:50733)
+L-asparagine (CHEBI:17196) has role nutraceutical (CHEBI:50733)
+L-citrulline (CHEBI:16349) has role nutraceutical (CHEBI:50733)
+L-glutamic acid (CHEBI:16015) has role nutraceutical (CHEBI:50733)
+L-glutamine (CHEBI:18050) has role nutraceutical (CHEBI:50733)
+L-histidine (CHEBI:15971) has role nutraceutical (CHEBI:50733)
+L-lysine (CHEBI:18019) has role nutraceutical (CHEBI:50733)
+L-methionine (CHEBI:16643) has role nutraceutical (CHEBI:50733)
+L-phenylalanine (CHEBI:17295) has role nutraceutical (CHEBI:50733)
+L-proline (CHEBI:17203) has role nutraceutical (CHEBI:50733)
+L-threonine (CHEBI:16857) has role nutraceutical (CHEBI:50733)
+L-tryptophan (CHEBI:16828) has role nutraceutical (CHEBI:50733)
+L-tyrosine (CHEBI:17895) has role nutraceutical (CHEBI:50733)
+L-valine (CHEBI:16414) has role nutraceutical (CHEBI:50733)
+adenosine 5'-monophosphate (CHEBI:16027) has role nutraceutical (CHEBI:50733)
+aspartame (CHEBI:2877) has role nutraceutical (CHEBI:50733)
+ATP (CHEBI:15422) has role nutraceutical (CHEBI:50733)
+benfotiamine (CHEBI:41039) has role nutraceutical (CHEBI:50733)
+biotin (CHEBI:15956) has role nutraceutical (CHEBI:50733)
+calcidiol (CHEBI:17933) has role nutraceutical (CHEBI:50733)
+calcitriol (CHEBI:17823) has role nutraceutical (CHEBI:50733)
+creatine (CHEBI:16919) has role nutraceutical (CHEBI:50733)
+crocetin (CHEBI:3918) has role nutraceutical (CHEBI:50733)
+curcumin (CHEBI:3962) has role nutraceutical (CHEBI:50733)
+disodium selenite (CHEBI:48843) has role nutraceutical (CHEBI:50733)
+disodium selenite pentahydrate (CHEBI:131361) has role nutraceutical (CHEBI:50733)
+glucomannan (CHEBI:17020) has role nutraceutical (CHEBI:50733)
+glycine (CHEBI:15428) has role nutraceutical (CHEBI:50733)
+guanidinoacetic acid (CHEBI:16344) has role nutraceutical (CHEBI:50733)
+iron(2+) sulfate heptahydrate (CHEBI:75836) has role nutraceutical (CHEBI:50733)
+iron(2+) sulfate monohydrate (CHEBI:75834) has role nutraceutical (CHEBI:50733)
+manganese(II) chloride (CHEBI:63041) has role nutraceutical (CHEBI:50733)
+manganese(II) chloride dihydrate (CHEBI:131395) has role nutraceutical (CHEBI:50733)
+manganese(II) chloride tetrahydrate (CHEBI:86368) has role nutraceutical (CHEBI:50733)
+manganese(II) sulfate (CHEBI:86360) has role nutraceutical (CHEBI:50733)
+manganese(II) sulfate dihydrate (CHEBI:86356) has role nutraceutical (CHEBI:50733)
+manganese(II) sulfate hexahydrate (CHEBI:131523) has role nutraceutical (CHEBI:50733)
+manganese(II) sulfate monohydrate (CHEBI:86364) has role nutraceutical (CHEBI:50733)
+manganese(II) sulfate pentahydrate (CHEBI:131524) has role nutraceutical (CHEBI:50733)
+manganese(II) sulfate tetrahydrate (CHEBI:86358) has role nutraceutical (CHEBI:50733)
+menadione (CHEBI:28869) has role nutraceutical (CHEBI:50733)
+oleocanthal (CHEBI:85673) has role nutraceutical (CHEBI:50733)
+oleuropein (CHEBI:7747) has role nutraceutical (CHEBI:50733)
+pantethine (CHEBI:31959) has role nutraceutical (CHEBI:50733)
+sodium succinate hexahydrate (CHEBI:63686) has role nutraceutical (CHEBI:50733)
+succinic acid (CHEBI:15741) has role nutraceutical (CHEBI:50733)
+vitamin B complex (CHEBI:75782) has role nutraceutical (CHEBI:50733)
+vitamin D2 (CHEBI:28934) has role nutraceutical (CHEBI:50733)
+qB vitamin (CHEBI:75769) is a nutraceutical (CHEBI:50733)
+
+
+# assuming nutraceutical route orally.
+
+# and that the "Active Ingredient" if available is  more useful than the "drug name"
+
+ 2,892  Active Ingredient
+20,940  Drug Name
+
+active ingrediants may be backslash separated within a field
+and alternatives split with an ` OR `
+
+moving each back slash to its own line  gives 2,542 Active Ingredient
+a merging of several hundred
+
+fgrep '$Oral$' DRUG18Q2.txt | cut -f6  -d'$' | tr '\' '\n' |sort | uniq -c | sort -nr
+
+fgrep '$Oral$' DRUG18Q2.txt | cut -f6  -d'$' | tr '\' '\n' |sort | uniq -c | sort -nr | grep " OR "
+     44 BISACODYL OR DOCUSATE SODIUM
+     10 AZITHROMYCIN OR METHOTREXATE SODIUM
+      6 CETYLPYRIDINIUM CHLORIDE OR SODIUM FLUORIDE OR SODIUM MONOFLUOROPHOSPHATE OR GLUCOSE OXIDASE
+      1 PROPYPHENAZONE OR IBUPROFEN
+      1 PHENYLEPHRINE HYDROCHLORIDE OR HOMEOPATHICS
+      1 PHENYLEPHRINE HYDROCHLORIDE OR ACETAMINOPHEN
+      1 CAFFEINE OR CAFFEINE
+
+The CAFFEINE one makes no sense,
+neither does "or homeopathics"
+the others are plausible.
+may want to consider redistributing disjunction over any accompaning conjunction
+
+-----------------------------------------------------------------
+For the rows without any active ingredient the drug name will have to serve.
+there are 4,783 such rows and they are more messy.
+
+Things to try to midigate before inevitable manual curation
+
+For a drug name having rows with and without an active ingredient,
+can the active ingredient be applied where it is missing?
+
+Are any drug names ~identical~ to an active ingredient?
+
+Can drug names be split on forward slashes?
+    (there are trailing `/nnnnnnnn/` which are elidable).
+
+there is dosing information which belongs elsewhere e.g. ' 20 mg'
+
+there are parenthasized words which may be
+    alternatives
+    brand names
+    geographic locations (names from jurisdictions?)
+
+
+fgrep '$Oral$' DRUG18Q2.txt | cut -f5,6  -d'$' | tr '\' '\n' |sort | uniq -c | sort -nr | grep  "\$$" | cut -c9-  > drug_name_wo_ai.lst
+
+
+fgrep '$Oral$' DRUG18Q2.txt | cut -f6  -d'$' | tr '\' '\n' | grep -v ""| sort | uniq -c | sort -nr |
