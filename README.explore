@@ -1,4 +1,17 @@
+blather:
+https://www.fda.gov/Drugs/GuidanceComplianceRegulatoryInformation/Surveillance/AdverseDrugEffects/ucm082193.htm
 
+datapage:
+https://fis.fda.gov/extensions/FPD-QDE-FAERS/FPD-QDE-FAERS.html
+
+data:
+https://fis.fda.gov/content/Exports/faers_ascii_2018q3.zip
+
+releases four times a year,  about 60M zipped  in 2018
+
+dump in local `data` dir 
+
+#######################################################
 SWAG use case: phenotype to substance (p2s)
 
 A paitent exibits symtoms(phenotype) which
@@ -10,9 +23,6 @@ which triggers condition.
 
 Nothing can be said about penetrance
 unless the numbers are consistantly overwhelming.
-
-
-
 
 
 ##############################################################
@@ -141,3 +151,12 @@ fgrep '$Oral$' DRUG18Q2.txt | cut -f5,6  -d'$' | tr '\' '\n' |sort | uniq -c | s
 
 
 fgrep '$Oral$' DRUG18Q2.txt | cut -f6  -d'$' | tr '\' '\n' | grep -v ""| sort | uniq -c | sort -nr |
+
+###########################################################################
+
+Maps wanted
+
+food/active_ingrediant/nutraceutical  to ontological identifier (pharma/chem).
+
+aliases TMs/brands/latin_names/common/language
+ 
